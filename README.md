@@ -61,3 +61,8 @@ The laboratory is configured using a **private virtual network**, allowing addit
 
   ---
   
+##   Security & Ethical Use
+
+This laboratory is performed strictly for **educational purposes and authorized security testing only**. Unauthorized access, scanning, or testing of systems is prohibited.
+
+  ---
