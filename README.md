@@ -43,12 +43,12 @@ The laboratory is configured using a **private virtual network**, allowing addit
 
 ##  Lab Setup Procedure
 
-  **Step 1: Install 7-zip/Win RAR**
-  **Step 2: Install VirtualBox**
-  **Step 3: Create a NAT Network**
-  **Step 4: Import Kali Linux**
-  **Step 5: Configure the Kali Linux Network**
-  **Step 6: Creating a VM Snapshot**
+  * **Step 1: Install 7-zip/Win RAR**
+  * **Step 2: Install VirtualBox**
+  * **Step 3: Create a NAT Network**
+  * **Step 4: Import Kali Linux**
+  * **Step 5: Configure the Kali Linux Network**
+  * **Step 6: Creating a VM Snapshot**
 
 ---
 
