@@ -37,13 +37,13 @@ The laboratory is configured using a **private virtual network**, allowing addit
 
 * **Oracle VirtualBox**
 * **Kali Linux**
-* **Win RAR- To extract files**
+* **WinRAR- To extract files**
 
 ---
 
 ##  Lab Setup Procedure
 
-  * **Step 1: Install 7-zip/Win RAR**
+  * **Step 1: Install 7-zip/WinRAR**
   * **Step 2: Install VirtualBox**
   * **Step 3: Create a NAT Network**
   * **Step 4: Import Kali Linux**
@@ -64,5 +64,13 @@ The laboratory is configured using a **private virtual network**, allowing addit
 ##   Security & Ethical Use
 
 This laboratory is performed strictly for **educational purposes and authorized security testing only**. Unauthorized access, scanning, or testing of systems is prohibited.
+
+  ---
+
+ ##  Tools & Resources
+
+* **WinRAR:** https://www.win-rar.com/download.html
+* **VirtualBox:** https://virtualbox.org/wiki/Downloads
+* **Kali Linux:** https://kali.org/get-kali
 
   ---
