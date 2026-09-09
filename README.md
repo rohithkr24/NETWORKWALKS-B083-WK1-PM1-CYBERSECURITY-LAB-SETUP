@@ -74,3 +74,16 @@ This laboratory is performed strictly for **educational purposes and authorized 
 * **Kali Linux:** https://kali.org/get-kali
 
   ---
+
+ ##   Author
+
+  Rohith K R
+  Computer Science Student
+
+  LinkedIn: linkedin.com/in/rohith-k-r-55236a30b
+
+  ---
+
+  ##  Project Information
+
+**Program Name:** Cybersecurity at Networkwalks | **Week:** 01 | **Project:** Cybersecurity & Pentesting Lab Setup | **Repository:** GitHub
