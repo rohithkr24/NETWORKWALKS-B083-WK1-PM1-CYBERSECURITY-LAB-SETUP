@@ -73,16 +73,16 @@ This laboratory is performed strictly for **educational purposes and authorized 
 * **VirtualBox:** https://virtualbox.org/wiki/Downloads
 * **Kali Linux:** https://kali.org/get-kali
 
-  ---
+---
 
  ##   Author
 
-  Rohith K R
-  Computer Science Student
+  **Rohith K R**
+  **Computer Science Student**
 
-  LinkedIn: linkedin.com/in/rohith-k-r-55236a30b
+  **LinkedIn:** [linkedin.com/in/rohith-k-r-55236a30b](https://www.linkedin.com/in/rohith-k-r-55236a30b/)
 
-  ---
+ ---
 
   ##  Project Information
 
