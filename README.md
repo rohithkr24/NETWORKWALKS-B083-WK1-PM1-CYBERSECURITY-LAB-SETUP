@@ -41,6 +41,11 @@ The laboratory is configured using a **private virtual network**, allowing addit
 
 ---
 
-## 📚 Learning Outcome
+##   Lab Setup Snapshots
 
-Through this project, I gained practical experience in **virtual machine setup, Kali Linux configuration, virtual networking, and cybersecurity lab environments**. This setup provides a foundation for further exploration of **ethical hacking, penetration testing, network security, and vulnerability assessment**.
+  ![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/8a930d5cf0b7bfc738a67509eb4af4a26e4c613b/1_screenshot_Kali_Linux.png)
+  ![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/8a930d5cf0b7bfc738a67509eb4af4a26e4c613b/2_screenshot_Network_settings.png)
+  ![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/8a930d5cf0b7bfc738a67509eb4af4a26e4c613b/3_screenshot_Terminal.png)
+  ![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/8a930d5cf0b7bfc738a67509eb4af4a26e4c613b/4_screenshot_VirtualBox_snapshot.png)
+  
+  
