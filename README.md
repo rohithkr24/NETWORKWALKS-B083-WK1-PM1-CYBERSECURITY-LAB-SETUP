@@ -69,7 +69,7 @@ This laboratory is performed strictly for **educational purposes and authorized 
 
  ##  Tools & Resources
 
-* **WinRAR:** https://www.win-rar.com/download.html
+* **WinRAR:** [https://www.win-rar.com/download.html](https://www.win-rar.com/download.html?&L=0)
 * **VirtualBox:** https://virtualbox.org/wiki/Downloads
 * **Kali Linux:** https://kali.org/get-kali
 
