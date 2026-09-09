@@ -75,12 +75,12 @@ This laboratory is performed strictly for **educational purposes and authorized 
 
 ---
 
- ##   Author
+#   Author
 
-  **Rohith K R**
-  **Computer Science Student**
+**Rohith K R**  
+**Computer Science Student**
 
-  **LinkedIn:** [linkedin.com/in/rohith-k-r-55236a30b](https://www.linkedin.com/in/rohith-k-r-55236a30b/)
+LinkedIn: [linkedin.com/in/rohith-k-r-55236a30b](https://www.linkedin.com/in/rohith-k-r-55236a30b)
 
  ---
 
